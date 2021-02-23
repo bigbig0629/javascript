@@ -25,3 +25,14 @@ function fn2() {};
  * git checkout -b <name> 创建并进入该分支
  * git merge <name> 把<name>分支上的代码合并到当前分支
  */
+
+//  第三次更新
+
+/* 
+ 1. git log
+ 2. git log < file > #查看该文件每次提交记录
+ 3. git log - p < file > #查看每次详细修改内容的diff
+ 4. git log - p - 2# 查看最近两次详细修改内容的diff
+ 5. git log--stat# 查看提交统计信息
+
+ */
